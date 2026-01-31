@@ -17,7 +17,7 @@ The player can explore the map, interact with NPCs, and make decisions that infl
 > [!WARNING]
 > Make sure you have **Python 3.10 or newer** installed before running the game.
 
-Install the required libraries:
+###Install the required libraries:
 ```bash
 pip install arcade
 ```
@@ -35,6 +35,9 @@ pip install arcade
 3. Search for Arcade and click Install Package.
 
 4. Once it’s fully installed, run the **main.py** file to start the game.
+
+###Dowload the assests (to make ur life easier here is a link down below:
+https://downgit.github.io/#/home?url=https://github.com/AXDA-Alexa/Gogogaga/tree/main/The ACTUAL game/assets
 
 *************
 
